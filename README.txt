@@ -26,3 +26,5 @@ Copyright 2007 Ryan Castillo
         59 Temple Place, Suite 330, Boston, MA  
         02111-1307  USA 
  or visit http://www.gnu.org/copyleft/gpl.html
+
+ NOTE: A known bug with this script is that it doesn't handle empty values between commas.
